@@ -1,4 +1,4 @@
-package week_01;
+package week_02;
 
 public class HelloCydeo {
     // in order to create main method type "main" hit the enter
