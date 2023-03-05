@@ -48,8 +48,5 @@ public class VariableInfo2 {
 
 
 
-
-
-
     }
 }
