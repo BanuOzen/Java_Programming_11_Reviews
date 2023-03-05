@@ -24,5 +24,6 @@ public class Task4 {
         // and print the result
 
         System.out.println(cel);
+
     }
 }
