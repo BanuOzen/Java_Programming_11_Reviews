@@ -16,10 +16,13 @@ public class DifSingleAndOrDoubleAndOr {
         if the first one is F we will not look at
         the second one
          */
+
         int b=10;     //   T |  T
         boolean valueOr=(4>3)||(--b==9);
+
         System.out.println("valueOr = " + valueOr);
         System.out.println("b = " + b);
+
 
 
 
