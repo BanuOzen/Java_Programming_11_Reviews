@@ -19,5 +19,11 @@ public class shortHanOperators {
 
         b-=5;
         System.out.println("b after subtraction = " + b);
+
+        int c=10;
+
+        System.out.println(c+=10);
+
+
     }
 }
