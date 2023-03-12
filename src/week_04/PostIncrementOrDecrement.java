@@ -19,7 +19,7 @@ public class PostIncrementOrDecrement {
         System.out.println(b--);
         System.out.println(b);
 
-        System.out.println(b++ + b-- + b);//
+        System.out.println(b++ + b-- + b);
 
 
     }
