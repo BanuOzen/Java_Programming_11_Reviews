@@ -15,7 +15,7 @@ public class ScannerExamples {
         int secondValue=scanner.nextInt();
 
         System.out.println("Total of number is "+ (firstValue + secondValue));
-
+        scanner.close();
 
 
 
