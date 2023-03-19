@@ -21,7 +21,7 @@ public class FormWithScanner {
         System.out.println("gender = " + gender);
         System.out.println("job = " + job);
 
-scanner.close();
+     scanner.close();
 
 
 
