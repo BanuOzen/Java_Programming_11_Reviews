@@ -8,7 +8,6 @@ public class ThreeCopiesOfString {
             //we will implement
             int indexOfLastSecondChar=word.length()-2;
             System.out.println(word.substring(indexOfLastSecondChar).repeat(3));
-
         }else{
             System.out.println("Invalid word");
         }
