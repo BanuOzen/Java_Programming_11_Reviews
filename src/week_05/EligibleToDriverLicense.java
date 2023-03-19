@@ -23,7 +23,7 @@ public class EligibleToDriverLicense {
         }else{
             System.out.println("You  are not eligible to get the license because of age");
         }
-
+            scanner.close();
 
     }
 }
