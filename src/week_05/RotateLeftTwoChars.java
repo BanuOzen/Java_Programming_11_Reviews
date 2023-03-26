@@ -2,7 +2,7 @@ package week_05;
 
 public class RotateLeftTwoChars {
     public static void main(String[] args) {
-        String word="Hi";
+        String word="Hello";
         if(word.length()>=2){
             //1- get the first two chars
             String firstTwo=word.substring(0,2);
