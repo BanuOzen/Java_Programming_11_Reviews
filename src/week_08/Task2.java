@@ -18,6 +18,11 @@ that have exactly two factors, themselves and 1
 
     }
 
+    /**
+     *
+     * @param number
+     * @return boolean
+     */
     public static boolean isPrime(int number) {
 
         if(number<2){
