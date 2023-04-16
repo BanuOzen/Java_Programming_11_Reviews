@@ -24,10 +24,29 @@ public class WrapperClassesIntro {
         System.out.println(Character.isUpperCase('a'));
 
         //parseInt()  ---->is returning primitive
-
-
-
         //valueOf()  ------> is returning object
+
+        String number ="12";
+        int data = Integer.parseInt(number);
+        System.out.println(number + 4); //124
+        System.out.println(data + 4);  //16
+        Integer obj = Integer.valueOf(number);
+        System.out.println(obj + 4); //16
+
+        System.out.println(obj.toString() + 4);  //124
+
+
+        //autoboxing ----> primitive to object
+        int a = 5;
+        Integer objInt = a;
+
+
+
+        // unboxing ------> object to primitive
+        int c = objInt;
+
+
+
 
 
 
