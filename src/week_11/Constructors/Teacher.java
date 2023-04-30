@@ -7,8 +7,9 @@ public class Teacher {
     public char gender;
 
     public Teacher(String name, int age, char gender) {
-        this.name = name;
-        this.age = age;
+       // this.name = name;
+       // this.age = age;
+        this(name, age);
         this.gender = gender;
     }
     public Teacher(String name, int age) {
