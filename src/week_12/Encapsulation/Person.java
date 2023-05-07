@@ -1,4 +1,4 @@
-package week_12;
+package week_12.Encapsulation;
 
 public class Person {
     private String name;
